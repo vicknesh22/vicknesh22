@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicknesh22
 - 👀 I’m interested in cloud and devops
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning things
 - 💞️ I’m looking to collaborate on slack
 - 📫 How to reach me email
 
